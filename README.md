@@ -12,5 +12,5 @@
 <br>
 
 ## INFORMAÇÕES ADICIONAIS
-Esse código foi passado para minha sala no curso de desenvolvimento de sistemas, logo após aprendermos a vincular o Python com o Openpyxl e efetuar alguns projetos como forma de aprendizado. <br>
-O instrutor passou esse código como prova final do primeiro módulo, onde tivemos que montar o código sem acesso a internet, somente usando os códigos de aprendizado como forma de pesquisa.
+Este código foi passado para minha sala no curso de desenvolvimento de sistemas, logo após aprendermos a vincular o Python com o Openpyxl e efetuar alguns projetos como forma de aprendizado. <br>
+O instrutor passou como prova final do primeiro módulo de programação, onde tive que montar o código sem acesso a internet, somente usando os códigos de aprendizado como forma de pesquisa.
